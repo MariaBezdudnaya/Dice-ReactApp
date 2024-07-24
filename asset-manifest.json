@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.83b941f5.css",
-    "main.js": "/static/js/main.2d55f3c9.js",
-    "static/js/453.c0af4766.chunk.js": "/static/js/453.c0af4766.chunk.js",
-    "index.html": "/index.html",
-    "main.83b941f5.css.map": "/static/css/main.83b941f5.css.map",
-    "main.2d55f3c9.js.map": "/static/js/main.2d55f3c9.js.map",
-    "453.c0af4766.chunk.js.map": "/static/js/453.c0af4766.chunk.js.map"
+    "main.css": "/Dice-ReactApp/static/css/main.83b941f5.css",
+    "main.js": "/Dice-ReactApp/static/js/main.67cfaf35.js",
+    "static/js/453.c0af4766.chunk.js": "/Dice-ReactApp/static/js/453.c0af4766.chunk.js",
+    "index.html": "/Dice-ReactApp/index.html",
+    "main.83b941f5.css.map": "/Dice-ReactApp/static/css/main.83b941f5.css.map",
+    "main.67cfaf35.js.map": "/Dice-ReactApp/static/js/main.67cfaf35.js.map",
+    "453.c0af4766.chunk.js.map": "/Dice-ReactApp/static/js/453.c0af4766.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83b941f5.css",
-    "static/js/main.2d55f3c9.js"
+    "static/js/main.67cfaf35.js"
   ]
 }
