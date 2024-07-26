@@ -12,13 +12,13 @@ function App() {
     <div>
       <Dice 
         images={[
-          "/images/dice.png",
-          "/images/dice1.png",
-          "/images/dice2.png",
-          "/images/dice3.png",
-          "/images/dice4.png",
-          "/images/dice5.png",
-          "/images/dice6.png",
+          `${process.env.PUBLIC_URL}/images/dice.png`,
+          `${process.env.PUBLIC_URL}/images/dice1.png`,
+          `${process.env.PUBLIC_URL}/images/dice2.png`,
+          `${process.env.PUBLIC_URL}/images/dice3.png`,
+          `${process.env.PUBLIC_URL}/images/dice4.png`,
+          `${process.env.PUBLIC_URL}/images/dice5.png`,
+          `${process.env.PUBLIC_URL}/images/dice6.png`,
         ]} 
 
         value={value}

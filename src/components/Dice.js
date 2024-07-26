@@ -7,7 +7,7 @@ export default function Dice({ images, showtext, value, onClick, onClickSet, act
 
   return (
     <div className="Dice__container">
-      <p className="Title">MyApp</p>
+      <p className="Title">DICE APP</p>
       <div className="Dice__images">
         <img
           className={active ? 'Active' : 'Dice__pic'}
