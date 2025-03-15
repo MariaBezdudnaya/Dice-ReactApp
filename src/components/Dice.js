@@ -15,15 +15,20 @@ export default function Dice({ images, showtext, value, onClick, onClickSet, act
           alt={"DicePic"}
         />
         <div className="Dice__text">
-          {showText && <span>Start to Roll!</span>}
+          {showText && <div>Start to Roll!</div>}
         </div>
       </div>
 
       <div className="Dice__btnContainer">
-        <button className={activeBtn ? 'button' : 'buttonDisabled'} onClick={onClick} disabled={!activeBtn}>Roll Dice!</button>
+        <button 
+          className={activeBtn ? 'button' : 'buttonDisabled'} 
+          onClick={onClick} 
+          disabled={!activeBtn}
+        >
+          Roll Dice!
+        </button>
         <button onClick={onClickSet}>Set</button>
       </div>
-
     </div>
   );
 }
