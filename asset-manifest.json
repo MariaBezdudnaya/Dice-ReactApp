@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/Dice-ReactApp/static/css/main.83b941f5.css",
-    "main.js": "/Dice-ReactApp/static/js/main.3a44b572.js",
-    "static/js/453.c0af4766.chunk.js": "/Dice-ReactApp/static/js/453.c0af4766.chunk.js",
+    "main.css": "/Dice-ReactApp/static/css/main.ad9fc932.css",
+    "main.js": "/Dice-ReactApp/static/js/main.bf63913e.js",
     "index.html": "/Dice-ReactApp/index.html",
-    "main.83b941f5.css.map": "/Dice-ReactApp/static/css/main.83b941f5.css.map",
-    "main.3a44b572.js.map": "/Dice-ReactApp/static/js/main.3a44b572.js.map",
-    "453.c0af4766.chunk.js.map": "/Dice-ReactApp/static/js/453.c0af4766.chunk.js.map"
+    "main.ad9fc932.css.map": "/Dice-ReactApp/static/css/main.ad9fc932.css.map",
+    "main.bf63913e.js.map": "/Dice-ReactApp/static/js/main.bf63913e.js.map"
   },
   "entrypoints": [
-    "static/css/main.83b941f5.css",
-    "static/js/main.3a44b572.js"
+    "static/css/main.ad9fc932.css",
+    "static/js/main.bf63913e.js"
   ]
 }
